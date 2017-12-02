@@ -1,0 +1,14 @@
+c:\users\alexis.ledesma\documents\visual studio 2017\Projects\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\bin\Debug\DiplomadoWebBackEndAspNet.exe.config
+c:\users\alexis.ledesma\documents\visual studio 2017\Projects\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\bin\Debug\DiplomadoWebBackEndAspNet.exe
+c:\users\alexis.ledesma\documents\visual studio 2017\Projects\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\bin\Debug\DiplomadoWebBackEndAspNet.pdb
+c:\users\alexis.ledesma\documents\visual studio 2017\Projects\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\obj\Debug\DiplomadoWebBackEndAspNet.csprojResolveAssemblyReference.cache
+c:\users\alexis.ledesma\documents\visual studio 2017\Projects\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\obj\Debug\DiplomadoWebBackEndAspNet.csproj.CoreCompileInputs.cache
+c:\users\alexis.ledesma\documents\visual studio 2017\Projects\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\obj\Debug\DiplomadoWebBackEndAspNet.exe
+c:\users\alexis.ledesma\documents\visual studio 2017\Projects\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\obj\Debug\DiplomadoWebBackEndAspNet.pdb
+C:\Users\Alexis Ledesma\Downloads\DiplomadoWebBackEndAspNets\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\bin\Debug\DiplomadoWebBackEndAspNet.exe.config
+C:\Users\Alexis Ledesma\Downloads\DiplomadoWebBackEndAspNets\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\bin\Debug\DiplomadoWebBackEndAspNet.exe
+C:\Users\Alexis Ledesma\Downloads\DiplomadoWebBackEndAspNets\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\bin\Debug\DiplomadoWebBackEndAspNet.pdb
+C:\Users\Alexis Ledesma\Downloads\DiplomadoWebBackEndAspNets\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\obj\Debug\DiplomadoWebBackEndAspNet.csprojResolveAssemblyReference.cache
+C:\Users\Alexis Ledesma\Downloads\DiplomadoWebBackEndAspNets\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\obj\Debug\DiplomadoWebBackEndAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Alexis Ledesma\Downloads\DiplomadoWebBackEndAspNets\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\obj\Debug\DiplomadoWebBackEndAspNet.exe
+C:\Users\Alexis Ledesma\Downloads\DiplomadoWebBackEndAspNets\DiplomadoWebBackEndAspNet\DiplomadoWebBackEndAspNet\obj\Debug\DiplomadoWebBackEndAspNet.pdb
